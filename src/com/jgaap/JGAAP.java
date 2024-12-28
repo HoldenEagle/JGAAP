@@ -61,8 +61,6 @@ public class JGAAP {
             javax.swing.SwingUtilities.invokeLater(new Runnable() {
                 public void run() {
                     createAndShowGUI();
-                    //Canon nc = new Canon();
-                    //nc.run_canon();
                 }
             });
             mainLogger.info("Worked out");
