@@ -63,7 +63,6 @@ public class JGAAP {
                     createAndShowGUI();
                 }
             });
-            mainLogger.info("Worked out");
         } else {
         	mainLogger.info("Starting CLI");
             try {
